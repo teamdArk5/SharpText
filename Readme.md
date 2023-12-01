@@ -1,3 +1,3 @@
 ![]()
 
-![SharpText](.\SharpText.png)
+![SharpText](./SharpText.png)
